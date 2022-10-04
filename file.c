@@ -1,0 +1,3 @@
+hello isetkr
+int main ()
+{}
